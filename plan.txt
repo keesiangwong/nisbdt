@@ -3,4 +3,4 @@ Digital Transformation Plan:
 2. Fit IoT sensor onto equipment
 3. Design database
 4. Design dashboard
-
+5. Develope mobile app
