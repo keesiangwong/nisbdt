@@ -1,3 +1,6 @@
 Digital Transformation Plan:
 1. Replace paper data capture using tablet
 2. Fit IoT sensor onto equipment
+3. Design database
+4. Design dashboard
+
